@@ -6,5 +6,5 @@ Some algorithms implemented from scratch in Python Numpy. Algorithms implemented
 3. Simple Logistic Regression 
 4. Simple Neural Network
 
-These exercises were part of the course "Introduction to Machine Learning" by Andrew Ng. Datasets are included in the folders. To run any of the algorithm, Download the repository and run the jupyter notebook.
+These exercises were part of the course "Introduction to Machine Learning" by Andrew Ng. The course was in Octave but here the implementations are in Python. Datasets are included in the folders. To run any of the algorithm, Download the repository and run the jupyter notebook.
 
